@@ -7,3 +7,4 @@ module.exports = function check(str, bracketsConfig) {
     } else i++;
   }
   return str.length === 0;
+}
